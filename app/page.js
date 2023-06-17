@@ -14,7 +14,7 @@ export default function Home() {
       }}
     >
       <div>Aryamann Come Back To Me, I Love You</div>
-      <br /> <div></div>
+      <br /> <div> </div>
     </div>
   );
 }
